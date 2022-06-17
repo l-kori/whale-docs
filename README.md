@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="logo" src="./whale-docs/imgs/whale_docs_logo.png">
+	<img alt="logo" height="100px" width="100px" src="./whale-docs/imgs/whale_docs_logo.png">
 </p>
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Whale Docs [鲸鱼文档]</h1>
 <h4 align="center">鲸鱼文档一个开源的项目资料库，包含了项目开发中所用到的各种资料数据。</h4>
